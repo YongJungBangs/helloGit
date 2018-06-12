@@ -6,6 +6,8 @@ public class Test2 {
 		System.out.println("안녕, 깃으로 본 세상");
 		
 		System.out.println("test1의 branch시작!!");
+		
+		System.out.println("branch끝!");
 	}
 
 }
