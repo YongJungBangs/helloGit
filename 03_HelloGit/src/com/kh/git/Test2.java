@@ -8,6 +8,7 @@ public class Test2 {
 		System.out.println("test1의 branch시작!!");
 		
 		System.out.println("branch끝!");
+		
+		System.out.println("내가 master여");
 	}
-
 }
